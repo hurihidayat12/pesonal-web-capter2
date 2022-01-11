@@ -1,0 +1,16 @@
+.bg-dark{
+    background-color: darkgoldenrod !important;
+}
+
+.text-dark{
+    color: darkgoldenrod !important;
+}
+
+.navbar {
+    height: 7vh;
+
+}
+
+.container-fluid {
+    height: 93vh;
+}
